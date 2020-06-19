@@ -8,7 +8,7 @@
 按照格式输入后以<CR><CF>.<CR><CF>结束，并发送邮件。
 输入quit关闭连接
 ```
-!(1.png)
+<img src="1.png" width="%">
 **2、telnet maths.whu.edu.cn 80**
 ```
 执行 telnet maths.whu.edu.cn 80
@@ -20,7 +20,7 @@ Host:maths.whu.edu.cn\r\n
 
 收到服务器响应内容。
 ```
-!(2.png)
+<img src="2.png" width="%">
 
 ## 课后习题  
 ### p1:  
